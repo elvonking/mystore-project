@@ -30,7 +30,7 @@ Additional functionality if you connect this project to the previous Nanodegree 
 4. ```ng serve```
 5. The project will be served on default on ```localhost:4200```
 
-## Configuration with [Storefront Backend for Final Project](
+## Configuration with [Storefront Backend for Final Project](https://github.com/elvonking/Storefront-Backend)
 
 ### Prerequisites
 
@@ -40,8 +40,8 @@ Additional functionality if you connect this project to the previous Nanodegree 
 
 ### Instructions
 
-1. Download [My Store]( and [Storefront Backend for Final Project](
-2. Follow the database and API configuration steps from the [README](
+1. Download [My Store]( and [Storefront Backend for Final Project](https://github.com/elvonking/Storefront-Backend)
+2. Follow the database and API configuration steps from the [README](https://github.com/elvonking/Storefront-Backend/blob/master/README.md)
    - You don't have to run any test commands or setup a TestDB name
 3. cd into the MyStore directory and ```npm install```
 4. In the MyStore project look into ```src/environments/environment.ts``` and check if the ``àpi_host`` is one same port/url the API server is running (default: localhost:3000)
